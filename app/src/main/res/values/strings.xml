@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">BluetoothPcControl</string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_new_devices">New Devices</string>
+    <string name="scan">Scan</string>
+    <string name="connect">Connect</string>
+    <string name="discoverable">Discoverable</string>
+    <string name="select_device">Select Device</string>
+    <string name="none_found">No Devices Found</string>
+    <string name="none_paired">No Paired Devices</string>
+    <string name="scanning">Scanning</string>
+    <string name="title_connected_to">Connected To:</string>
+    <string name="title_connecting">Connecting...</string>
+    <string name="title_not_connected">Not Connected</string>
+    <string name="bt_not_enabled_leaving">Bluetooth Not Enabled; Leaving</string>
+    <string name="btn_show_keyboard">Show Keyboard</string>
+    <string name="not_implemented">Not implemented yet.</string>
+    <string name="mousepad_tab_label">Mouse Pad</string>
+    <string name="keyboard_tab_label">Keyboard</string>
+    <string name="const_1">1</string>
+    <string name="const_2">2</string>
+    <string name="const_3">3</string>
+    <string name="const_4">4</string>
+    <string name="const_5">5</string>
+    <string name="const_6">6</string>
+    <string name="const_7">7</string>
+    <string name="const_8">8</string>
+    <string name="const_9">9</string>
+    <string name="const_0">0</string>
+    <string name="space">Space</string>
+    <string name="escape">Esc</string>
+    <string name="const_f">F</string>
+    <string name="const_n">N</string>
+    <string name="const_p">P</string>
+    <string name="enter">Enter</string>
+    <string name="delete">Delete</string>
+</resources>
